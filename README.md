@@ -5,6 +5,6 @@ We have submitted a manuscript based on the OpenDriver dataset. Upon acceptance 
 
 (2) The link to access the dataset. (We have already uploaded an example of the OpenDriver dataset to our website: https://mcprl.com/html/dataset/OpenDriver.html, the whole dataset will be made public here upon acceptance of the paper).
 
-# Supplementary Material
-The supplementary material for the OpenDriver dataset can be found in 
-[Supplementary Material](https://github.com/bdne/OpenDriver/blob/main/images/Supplementary%20Material.pdf).
+# Extended Descriptions
+The extended descriptions of the OpenDriver dataset can be found in 
+[Extended Descriptions](https://github.com/bdne/OpenDriver/blob/main/images/Extended%20Descriptions.pdf).
