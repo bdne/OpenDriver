@@ -10,3 +10,4 @@ We have submitted a manuscript based on the OpenDriver dataset. Upon acceptance 
 [S2](https://github.com/bdne/OpenDriver/blob/main/images/S2.png)
 [S3](https://github.com/bdne/OpenDriver/blob/main/images/S3.png)
 [Table S1](https://github.com/bdne/OpenDriver/blob/main/images/TableS1.png)
+[Supplementary Material](https://github.com/bdne/OpenDriver/blob/main/images/Supplementary%20Material.pdf)
