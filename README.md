@@ -1,10 +1,17 @@
 # OpenDriver
-We have submitted a manuscript based on the OpenDriver dataset. Upon acceptance of the paper, we will update this repository within one week. The update will include the following:
 
-(1) Core codes for dataset processing.
+The OpenDriver dataset is now **publicly available to the academic community**.
+You can download it here: [Google Drive Link](https://drive.google.com/file/d/1dxj5UEzKUkoeu0ohAGpMpSHVJLlfqE0E/view?usp=drive_link).
 
-(2) The link to access the dataset. (We have already uploaded an example of the OpenDriver dataset to our website: https://mcprl.com/html/dataset/OpenDriver.html, the whole dataset will be made public here upon acceptance of the paper).
+Each folder in the compressed package represents the raw data of a single trip.
+To read different types of data points within a trip, please refer to the provided script: `get_trip_data.py`.
+
+Codes for **data preprocessing**, **other related implementations in the paper**, as well as the **subset for biometric identification tasks**, will be released soon.
+
+---
 
 # Extended Descriptions
-The extended descriptions of the OpenDriver dataset can be found in 
-[Extended Descriptions](https://github.com/bdne/OpenDriver/blob/main/images/Extended%20Descriptions.pdf).
+
+Extended descriptions of the OpenDriver dataset can be found here:
+[Extended Descriptions (PDF)](https://github.com/bdne/OpenDriver/blob/main/images/Extended%20Descriptions.pdf)
+
